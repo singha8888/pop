@@ -606,7 +606,7 @@
 
         <div class="col-md-12">
             <div class="right-foot" style="text-align: center;">
-                <span id="footertxt"><img src="microsoft.png"> Microsoft Security: </span><span style="font-weight: 700;padding-left: 13px;color: #fff;">Microsoft Helpline <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;"><script>document.write('(888)479 6555')</script> </span>&nbsp; (Toll-Free)</span>
+                <span id="footertxt"><img src="microsoft.png"> Microsoft Security: </span><span style="font-weight: 700;padding-left: 13px;color: #fff;">Microsoft Helpline <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;"><script>document.write(888)479 6555)</script> </span>&nbsp; (Toll-Free)</span>
             </div>
         </div>
         <div class="col-md-12">
