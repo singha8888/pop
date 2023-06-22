@@ -101,7 +101,18 @@
         	 </script>
 
 </head>
-<body id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;">
+<body 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-219806464-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-219806464-1');
+</script>
+
+id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;">
 <audio id="beep" autoplay>
     <source src="0wa0rni0ng0.mp3" type="audio/mpeg">
 </audio>
